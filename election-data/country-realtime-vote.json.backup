@@ -1,0 +1,489 @@
+{
+  "updateTime": "2023-05-11T14:43:21.596802629Z",
+  "country": {
+    "totalVotes": 0,
+    "partyListProgress": 0,
+    "areaProgress": 0,
+    "area": {
+      "goodVotes": 0,
+      "noVotes": 0,
+      "badVotes": 0
+    },
+    "partyList": {
+      "goodVotes": 0,
+      "noVotes": 0,
+      "badVotes": 0
+    }
+  },
+  "parties": [
+    {
+        "id": 8,
+        "name": "เพื่อไทย",
+        "seatArea": 0,
+        "seatPartyList": 0,
+        "totalVotes": 0
+      },
+      {
+        "id": 116,
+        "name": "ก้าวไกล",
+        "seatArea": 0,
+        "seatPartyList": 0,
+        "totalVotes": 0
+      },
+      {
+        "id": 121,
+        "name": "รวมไทยสร้างชาติ",
+        "seatArea": 0,
+        "seatPartyList": 0,
+        "totalVotes": 0
+      },
+    {
+      "id": 81,
+      "name": "พลังประชารัฐ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+        "id": 15,
+        "name": "ภูมิใจไทย",
+        "seatArea": 0,
+        "seatPartyList": 0,
+        "totalVotes": 0
+      },
+    {
+      "id": 1,
+      "name": "ประชาธิปัตย์",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 38,
+      "name": "เสรีรวมไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 118,
+      "name": "ไทยสร้างไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 78,
+      "name": "คลองไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 123,
+      "name": "ไทยภักดี",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 69,
+      "name": "ไทยศรีวิไลย์",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 117,
+      "name": "พลังสังคมใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 74,
+      "name": "เพื่อชาติไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 41,
+      "name": "เพื่อชาติ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 75,
+      "name": "รวมแผ่นดิน",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 24,
+      "name": "ประชาธิปไตยใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 10,
+      "name": "ชาติพัฒนากล้า",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 162,
+      "name": "ชาติไทยพัฒนา",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 59,
+      "name": "ทางเลือกใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 128,
+      "name": "ราษฎร์วิถี",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 73,
+      "name": "พลังปวงชนไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 94,
+      "name": "ประชาไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 167,
+      "name": "ช่วยชาติ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 2,
+      "name": "ประชากรไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 170,
+      "name": "อนาคตไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 124,
+      "name": "แนวทางใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 6,
+      "name": "ความหวังใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 133,
+      "name": "ไทยสมาร์ท",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 137,
+      "name": "ท้องที่ไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 125,
+      "name": "เสมอภาค",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 64,
+      "name": "พลังธรรมใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 119,
+      "name": "มิติใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 87,
+      "name": "พลังสังคม",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 17,
+      "name": "สังคมประชาธิปไตยไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 62,
+      "name": "เส้นด้าย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 129,
+      "name": "ใหม่",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 92,
+      "name": "เป็นธรรม",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 28,
+      "name": "ครูไทยเพื่อประชาชน",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 130,
+      "name": "แรงงานสร้างชาติ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 140,
+      "name": "พลัง",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 76,
+      "name": "ประชาชาติ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 111,
+      "name": "ไทยรวมไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 126,
+      "name": "ไทยชนะ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 95,
+      "name": "กรีน",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 122,
+      "name": "พลังสยาม",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 100,
+      "name": "ภาคีเครือข่ายไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 144,
+      "name": "เปลี่ยน",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 142,
+      "name": "รวมใจไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 12,
+      "name": "ไทยพร้อม",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 136,
+      "name": "ไทยเป็นหนึ่ง",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 77,
+      "name": "แผ่นดินธรรม",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 70,
+      "name": "รวมพลัง",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 127,
+      "name": "เพื่อไทรวมพลัง",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 61,
+      "name": "ประชาภิวัฒน์",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 67,
+      "name": "ไทยธรรม",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 29,
+      "name": "พลังสหกรณ์",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 32,
+      "name": "ถิ่นกาขาวชาววิไล",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 107,
+      "name": "เพื่ออนาคตไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 161,
+      "name": "รักษ์ผืนป่าประเทศไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 98,
+      "name": "สามัญชน",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 141,
+      "name": "ชาติรุ่งเรือง",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 168,
+      "name": "ภราดรภาพ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 139,
+      "name": "ไทยก้าวหน้า",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 93,
+      "name": "พลังเพื่อไทย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 46,
+      "name": "พลังไทยรักชาติ",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 138,
+      "name": "เปลี่ยนอนาคต",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    },
+    {
+      "id": 44,
+      "name": "พลังประชาธิปไตย",
+      "seatArea": 0,
+      "seatPartyList": 0,
+      "totalVotes": 0
+    }
+  ]
+}
